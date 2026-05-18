@@ -55,13 +55,10 @@ cbnu_26_1/
 │   ├── System/
 │   └── Service/
 │
-├── Hypervisor_OS/              # 가상화 플랫폼
-│   ├── ESXI/                   # VMware ESXi
-│   ├── Proxmox/                # Proxmox VE
-│   └── BIOS/                   # BIOS 설정
-│
-└── Skills_Competition/         # 기능경기대회 자료
-    ├── 2017/ ~ 2024/           # 연도별 과제 및 솔루션
+└── Hypervisor_OS/              # 가상화 플랫폼
+    ├── ESXI/                   # VMware ESXi
+    ├── Proxmox/                # Proxmox VE
+    └── BIOS/                   # BIOS 설정
 ```
 
 ---
